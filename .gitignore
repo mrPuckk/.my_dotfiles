@@ -1,0 +1,15 @@
+.config/tmux/plugins
+# .config/fish/functions/
+# .gitignore
+.config/fish/*
+!.config/fish/config.fish
+!.config/fish/functions/fish_user_key_bindings.fish
+!.config/fish/functions/fisher.fish
+!.config/fish/functions/kp.fish
+!.config/fish/functions/lf.fish
+!.config/fish/functions/lfcd.fish
+
+.ssh/*
+!.ssh/MacOs
+!.ssh/MacOs.pub
+
